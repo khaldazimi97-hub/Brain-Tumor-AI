@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor MRI Classification <br/>_EfficientNetV2 + Test-Time Augmentation = High-Accuracy Medical Imaging_
 
-[![View Notebook](https://img.shields.io/badge/-View%20Notebook-blue?logo=jupyter)](./) <!-- TODO: Link to your notebook if public -->
+
 [![Report Bug](https://img.shields.io/badge/-Report%20Bug-red?logo=github)](../../issues)
 
 ---
